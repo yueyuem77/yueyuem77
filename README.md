@@ -34,19 +34,17 @@ Here, you'll find a selection of projects that reflect my growth and learning in
 - **Technologies Used**:  Python, TextBlob, spaCy, Gensim, Google Colab, NYT API  
 
 
-
 ## Education
 
 - **Master's in Quantitative Methods in the Social Sciences**, Columbia University - 2025
 - **Bachelor's Degree** in Cognitive Science,University of California, Irvine - 2023
 
-## Contact Me
+## 🔗 Connect with Me
+  
+ I am always open to learning opportunities, project collaborations, and discussions about data science. Feel free to connect:
 
-I am always open to learning opportunities, project collaborations, and discussions about data science. Feel free to connect:
-
-- 📧 Email: [ym2980@columbia.edu](ym2980@columbia.edu)
-- 🔗 LinkedIn: [linkedin.com/yueyuemin](linkedin.com/yueyuemin)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yueyuemin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
 Thank you for visiting my portfolio and joining me on my data science journey!
 
